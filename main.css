@@ -1,6 +1,11 @@
+body {
+  background: blue;
+}
+
 header {
   color: pink;
   background: grey;
+  font-size: 20px;
 }
 
 /*# sourceMappingURL=main.css.map */
